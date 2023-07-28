@@ -93,16 +93,6 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "null$$$yunshuche$$$11223344"
-    },
-    {
-      "key": "push_agent",
-      "name": "🍭推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "jar":"./YSC.jar"
     }
   ]
 }
